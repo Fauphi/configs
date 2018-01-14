@@ -1,0 +1,4 @@
+set encoding=utf-8
+set guifont=Monaco\ for\ Powerline
+let g:airline_powerline_fonts=1
+let g:Powerline_symbols='unicode'
